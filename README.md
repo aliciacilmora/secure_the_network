@@ -1,4 +1,4 @@
-#**Let's Secure the Network**
+**Let's Secure the Network**
 
 ## Basic Modules:
 
@@ -16,5 +16,4 @@
 
 * Denial of Service (DoS)
 
-
-###Each Module has config as well as document report for it.
+Each Module has config as well as document report for it.
