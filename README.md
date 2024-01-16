@@ -1,17 +1,17 @@
-### Let's Secure The Network
+###Let's Secure the Network
 
-## Basic Moudles:
+## Basic Modules:
 
-*Basic Network Topology
-*DHCP Server
-*DNS Server
-*Network Troubleshooting
-*TCP UDP Coexistence
+* Basic Network Topology
+* DHCP Server
+* DNS Server
+* Network Troubleshooting
+* TCP UDP Coexistence
 
-## Intermmediate Modules:
+## Intermediate Modules:
 
--Intrusion Detection 
+* Intrusion Detection
 
 ## Advanced Module:
 
--DOS 
+* Denial of Service (DoS)
