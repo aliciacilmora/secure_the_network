@@ -1,6 +1,6 @@
 ### Let's Secure The Network
 
-## Basic Moudles:-
+## Basic Moudles:
 
 *Basic Network Topology
 *DHCP Server
@@ -8,10 +8,10 @@
 *Network Troubleshooting
 *TCP UDP Coexistence
 
-## Intermmediate Modules:-
+## Intermmediate Modules:
 
 -Intrusion Detection 
 
-## Advanced Module
+## Advanced Module:
 
 -DOS 
