@@ -14,6 +14,6 @@
 
 ## Advanced Module:
 
-* Denial of Service (DoS)
+* Denial of Service (DOS)
 
- <h2 Each Module has config as well as document report.>
+## Each Module has config as well as document report.>
